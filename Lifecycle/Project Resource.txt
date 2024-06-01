@@ -1,0 +1,28 @@
+Automatic attendance system by face recognition
+	1.https://www.geeksforgeeks.org/how-to-create-a-face-detection-android-app-using-machine-learning-kit-on-firebase/
+	2.https://github.com/IIITL-DeV/Face-Recognition-Attendance-Android-App
+
+Emergency Ambulance system:
+	1.https://www.geeksforgeeks.org/how-to-build-a-sos-mobile-application-in-android-studio/
+	2.https://github.com/sakshamsachdeva/MedRescue
+
+Women Security app
+	1.https://github.com/topics/women-safety
+	2.https://github.com/topics/women-safety?l=java
+	3.https://github.com/topics/women-safety?o=desc&s=updated
+
+Smart House Controller app
+	1.https://iotdesignpro.com/projects/getting-started-with-android-studio-for-internet-of-things
+	2.https://www.youtube.com/watch?v=GwgTlxLSeZ8
+
+University Bus and student tracking system
+	1.https://github.com/topics/bus-tracking
+	2.https://www.section.io/engineering-education/creating-a-location-tracking-app-using-firebase-and-google-maps-in-android/
+
+Image CLassification android app
+	1.https://medium.com/geekculture/build-a-custom-image-classification-android-app-using-teachable-machine-f60b197eaa90
+	2.https://github.com/alexisjwu/object-detection-android-app
+
+
+
+

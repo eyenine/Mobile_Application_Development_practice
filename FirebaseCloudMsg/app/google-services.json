@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486690755291",
+    "project_id": "fir-cloudmsg-caaf9",
+    "storage_bucket": "fir-cloudmsg-caaf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486690755291:android:46684afd522a63bbf0b2fe",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmsg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpe_Di3sg2Q79i7WZ0gA9WJcNALXLWc5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
